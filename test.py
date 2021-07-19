@@ -1,3 +1,5 @@
+# latihan pengkondisian
+
 hariIni = "rabu"
 
 if hariIni == "senin":
